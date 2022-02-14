@@ -7,13 +7,13 @@ public class Main_bj_10799 {
 	public static void main(String[] args) throws Exception{
 		System.setIn(new FileInputStream("res/input_bj_10799.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		char[] c = br.readLine().toCharArray();
+		String s=br.readLine();
 		int st_size = 0;
 		int result=0;
 		
-		for (int i = 0; i < c.length; i++) {
-			if (c[i] == '(') {
-				if (c[i + 1] == ')') {
+		for (int i = 0; i < s.length(); i++) {
+			if (s.charAt(i) == '(') {
+				if (s.charAt(i+1) == ')') {
 					result+=st_size;
 					i++;
 				}else {
