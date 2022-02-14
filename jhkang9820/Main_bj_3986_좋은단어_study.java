@@ -17,9 +17,7 @@ public class Main_bj_3986_좋은단어_study {
 		for (int n = 0; n < N; n++) {
 			String s = br.readLine();
 			stk = new Stack<>();
-			stk.push(s.charAt(0));
-			
-			for (int i = 1; i < s.length(); i++) {
+			for (int i = 0; i < s.length(); i++) {
 				if(!stk.empty()) {
 					if (stk.peek() == s.charAt(i)) { // 첫 문자 = 두번째 문자
 						stk.pop();
