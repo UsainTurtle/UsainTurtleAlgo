@@ -17,3 +17,5 @@ Baekjoon - Main_bj_@@.java
   - [bj15686](https://www.acmicpc.net/problem/15686): 치킨배달
   - [bj10026](https://www.acmicpc.net/problem/10026): 적록색약
   - [bj1012](https://www.acmicpc.net/problem/1012): 유기농 배추
+- 02.24
+  - [bj12904](https://www.acmicpc.net/problem/12904): A와 B
