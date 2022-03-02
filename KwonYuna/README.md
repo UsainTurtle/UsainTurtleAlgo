@@ -19,3 +19,9 @@ Baekjoon - Main_bj_@@.java
   - [bj1012](https://www.acmicpc.net/problem/1012): 유기농 배추
 - 02.24
   - [bj12904](https://www.acmicpc.net/problem/12904): A와 B
+- 03.02
+  - [bj3190](https://www.acmicpc.net/problem/3190): 뱀 (una pick)
+  - [bj2239](https://www.acmicpc.net/problem/2239): 스도쿠
+  - [bj16234](https://www.acmicpc.net/problem/16234): 인구 이동
+  - [bj1713](https://www.acmicpc.net/problem/1713): 후보 추천하기
+  - [bj5427](https://www.acmicpc.net/problem/5427): 불
