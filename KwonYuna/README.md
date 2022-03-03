@@ -8,6 +8,8 @@ Baekjoon - Main_bj_@@.java
   - [bj16234](https://www.acmicpc.net/problem/16234): 인구 이동
   - [bj1713](https://www.acmicpc.net/problem/1713): 후보 추천하기
   - [bj5427](https://www.acmicpc.net/problem/5427): 불
+- 03.03
+  - [bj17472](https://www.acmicpc.net/problem/17472): 다리 만들기 2
 
 #### 2022.02
 - 02.10
