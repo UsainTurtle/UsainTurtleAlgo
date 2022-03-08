@@ -6,7 +6,7 @@ import java.util.*;
 //아래 처음 작성한 코드와 시간,메모리 모두 2배 차이
 /* 첫번째 작성한 코드 296780KB 868ms */
 /* 두번째 작성한 코드 126156KB 364ms */
-public class Main_bj_54062 {
+public class Main_bj_14502 {
 
 	static final int[] di = { -1, 0, 1, 0 };
 	static final int[] dj = { 0, 1, 0, -1 };
