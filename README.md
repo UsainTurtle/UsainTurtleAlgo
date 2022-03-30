@@ -24,11 +24,11 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0328|[bj7569](https://www.acmicpc.net/problem/7569)|토마토||||||
-|0328|[bj1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주||||||
+|0328|[bj7569](https://www.acmicpc.net/problem/7569)|토마토|🤓|||||
+|0328|[bj1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주|🤓|||||
 |0328|[bj14891](https://www.acmicpc.net/problem/14891)|톱니바퀴||||||
 |0328|[bj1194](https://www.acmicpc.net/problem/1194)|달이 차오른다, 가자.||||||
-|0328|[bj2606](https://www.acmicpc.net/problem/2606)|바이러스||||||
+|0328|[bj2606](https://www.acmicpc.net/problem/2606)|바이러스|🤓|||||
 |0323|[bj17779](https://www.acmicpc.net/problem/17779)|게리맨더링2||||||
 |0322|[bj17140](https://www.acmicpc.net/problem/17140)|이차원 배열과 연산||||||
 |0322|[bj14890](https://www.acmicpc.net/problem/14890)|경사로||||||
@@ -63,7 +63,7 @@ Comming soon..
 |0214|[bj1106](https://www.acmicpc.net/problem/1106)|호텔 ||||||
 |0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕||| 
 |0214| [bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기 |||🥕|||
-|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |||🥕|||
+|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🤓||🥕|||
 |0214|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값|||🥕||| 
-|0210|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아! |||🥕|||
+|0210|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아! |🤓||🥕|||
 
