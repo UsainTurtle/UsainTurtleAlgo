@@ -37,8 +37,8 @@ Comming soon..
 |0322|[bj15685](https://www.acmicpc.net/problem/15685)|드래곤 커브||||💪||
 |0317|[bj16235](https://www.acmicpc.net/problem/16235)|나무 재테크||||💪||
 |0315|[bj13460](https://www.acmicpc.net/problem/13460)|구슬 탈출2|||🥕|||
-|0315|[bj20061](https://www.acmicpc.net/problem/20061)|모노미노도미노2||||||
-|0315|[bj14500](https://www.acmicpc.net/problem/14500)|테트로미노||||💪||
+|0315|[bj20061](https://www.acmicpc.net/problem/20061)|모노미노도미노2|||🥕|||
+|0315|[bj14500](https://www.acmicpc.net/problem/14500)|테트로미노|||🥕|💪||
 |0315|[bj20056](https://www.acmicpc.net/problem/20056)|마법사 상어와 파이어볼||||||
 |0315|[bj20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇||||💪||
 |0311|[bj21609](https://www.acmicpc.net/problem/21609)|상어 중학교|||🥕|💪||
