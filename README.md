@@ -20,13 +20,13 @@ Comming soon..
 
 
 
- BEAKJOON(bj) / SWExpertAcademy(sw) / Programmers(pr)
+ BEAKJOON(bj) / SWExpertAcademy(sw) / Programmers(pg)
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0331|[pr92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산||||||
-|0331|[pr92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|k진수에서 소수 개수 구하기||||||
-|0331|[pr92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기||||||
+|0331|[pg92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산||||||
+|0331|[pg92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|k진수에서 소수 개수 구하기||||||
+|0331|[pg92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기||||||
 |0328|[bj7569](https://www.acmicpc.net/problem/7569)|토마토|🐯|||||
 |0328|[bj1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주|🐯|||||
 |0328|[bj14891](https://www.acmicpc.net/problem/14891)|톱니바퀴||||||
