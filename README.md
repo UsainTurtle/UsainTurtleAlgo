@@ -24,6 +24,9 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
+|0406|[sw2382](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|미생물 격리||||||
+|0406|[sw1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)|탈주범 검거||||||
+|0406|[sw2383](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)|점심 식사시간||||||
 |0331|[pg92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산|||🌻|||
 |0331|[pg92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|k진수에서 소수 개수 구하기|||🌻|||
 |0331|[pg92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기|||🌻|||
