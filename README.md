@@ -24,19 +24,19 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0411|[sw5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|무선 충전|||🎱|||
-|0411|[sw5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|줄기세포배양|||🎱|||
-|0411|[sw1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)|등산로 조성|||🎱|||
-|0407|[bj17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|||🐹|||
-|0406|[sw2382](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|미생물 격리|||🐹|||
-|0406|[sw1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)|탈주범 검거|||🐹|||
+|0411|[sw5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|무선 충전|||🎱|💪||
+|0411|[sw5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|줄기세포배양|||🎱|💪||
+|0411|[sw1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)|등산로 조성|||🎱|💪||
+|0407|[bj17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|||🐹|💪||
+|0406|[sw2382](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|미생물 격리|||🐹|💪||
+|0406|[sw1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)|탈주범 검거|||🐹|💪||
 |0406|[sw2383](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)|점심 식사시간|||🐹|||
-|0331|[pg92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산|||🌻|||
+|0331|[pg92341](https://programmers.co.kr/learn/courses/30/lessons/92341)|주차 요금 계산|||🌻|💪||
 |0331|[pg92335](https://programmers.co.kr/learn/courses/30/lessons/92335)|k진수에서 소수 개수 구하기|||🌻|||
-|0331|[pg92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기|||🌻|||
+|0331|[pg92334](https://programmers.co.kr/learn/courses/30/lessons/92334)|신고 결과 받기|||🌻|💪||
 |0328|[bj7569](https://www.acmicpc.net/problem/7569)|토마토|🐯|||||
 |0328|[bj1941](https://www.acmicpc.net/problem/1941)|소문난 칠공주|🐯|||||
-|0328|[bj14891](https://www.acmicpc.net/problem/14891)|톱니바퀴||||||
+|0328|[bj14891](https://www.acmicpc.net/problem/14891)|톱니바퀴||||💪||
 |0328|[bj1194](https://www.acmicpc.net/problem/1194)|달이 차오른다, 가자.||||||
 |0328|[bj2606](https://www.acmicpc.net/problem/2606)|바이러스|🐯|||💪||
 |0323|[bj17779](https://www.acmicpc.net/problem/17779)|게리맨더링2||||💪||
@@ -53,15 +53,15 @@ Comming soon..
 |0315|[bj20055](https://www.acmicpc.net/problem/20055)|컨베이어 벨트 위의 로봇||||💪||
 |0311|[bj21609](https://www.acmicpc.net/problem/21609)|상어 중학교|||🥕|💪||
 |0307|[bj14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|||🥕|||
-|0307|[bj14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|||🥕|||
-|0307|[bj14502](https://www.acmicpc.net/problem/14502)|연구소|||🥕|||
+|0307|[bj14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|||🥕|💪||
+|0307|[bj14502](https://www.acmicpc.net/problem/14502)|연구소|||🥕|💪||
 |0307|[bj14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|||🥕|💪||
 |0307|[bj14499](https://www.acmicpc.net/problem/14499)|주사위 굴리기|||🥕|||
 |0303| [bj17472](https://www.acmicpc.net/problem/17472)|다리 만들기2|||🥕|💪||
 |0302|[bj5427](https://www.acmicpc.net/problem/5427)|불|||🥕|💪||
-|0302| [bj1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|||🥕|||
+|0302| [bj1713](https://www.acmicpc.net/problem/1713)|후보 추천하기|||🥕|💪||
 |0302|[bj16234](https://www.acmicpc.net/problem/16234)|인구이동|||🥕|💪||
-|0302|[bj2239](https://www.acmicpc.net/problem/2239)|스도쿠|||🥕|||
+|0302|[bj2239](https://www.acmicpc.net/problem/2239)|스도쿠|||🥕|💪||
 |0302|[bj3190](https://www.acmicpc.net/problem/3190)|뱀|||🥕|||
 |0224|[bj12904](https://www.acmicpc.net/problem/12904)|A와 B|||🥕|💪||
 |0221|[bj1012](https://www.acmicpc.net/problem/1012)|유기농 배추|||🥕|||
