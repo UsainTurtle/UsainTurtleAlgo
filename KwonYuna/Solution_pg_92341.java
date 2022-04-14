@@ -2,7 +2,7 @@ package a0331;
 
 import java.util.*;
 
-public class Solution_pg92341 {
+public class Solution_pg_92341 {
     public static void main(String[] args) {
 
          //fees 기본 시간(분) / 기본 요금(원) / 단위 시간(분) / 단위 요금(원)
