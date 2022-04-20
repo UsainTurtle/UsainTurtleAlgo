@@ -24,8 +24,14 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회||||||
-|0415|[pg92344](https://programmers.co.kr/learn/courses/30/lessons/92344)|파괴되지 않은 건물||||||
+|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2||||||
+|0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||||
+|0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||||
+|0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||||
+|0419|[bj1922](https://www.acmicpc.net/problem/1922)|네트워크 연결||||||
+|0419|[bj16398](https://www.acmicpc.net/problem/16398)|행성 연결||||||
+|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|||🌧|||
+|0415|[pg92344](https://programmers.co.kr/learn/courses/30/lessons/92344)|파괴되지 않은 건물|||🌧|||
 |0411|[sw5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|무선 충전|||🎱|💪||
 |0411|[sw5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|줄기세포배양|||🎱|💪||
 |0411|[sw1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)|등산로 조성|||🎱|💪||
@@ -72,7 +78,7 @@ Comming soon..
 |0221|[bj2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|||🥕|||
 |0221|[bj2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|||🥕|💪||
 |0217|[bj2638](https://www.acmicpc.net/problem/2638)|치즈 |||🥕|💪||
-|0214|[bj1106](https://www.acmicpc.net/problem/1106)|호텔 ||||💪||
+|0214|[bj1106](https://www.acmicpc.net/problem/1106)|호텔 |||🌞|💪||
 |0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕||| 
 |0214| [bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기 |||🥕|||
 |0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🐯||🥕|||
