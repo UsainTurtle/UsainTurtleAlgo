@@ -24,7 +24,7 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2||||||
+|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2|||🎲|||
 |0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||||
 |0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||||
 |0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||||
