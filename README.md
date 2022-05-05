@@ -24,6 +24,11 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
+|0504|[bj1414](https://www.acmicpc.net/problem/1414)|불우이웃돕기||||||
+|0504|[bj2418](https://www.acmicpc.net/problem/2418)|단어 격자||||||
+|0504|[bj16719](https://www.acmicpc.net/problem/16719)|ZOAC||||||
+|0504|[bj3107](https://www.acmicpc.net/problem/3107)|IPv6||||||
+|0504|[bj4889](https://www.acmicpc.net/problem/4889)|안정적인 문자열||||||
 |0425|[bj13418](https://www.acmicpc.net/problem/13418)|학교 탐방하기||||||
 |0425|[bj14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애||||||
 |0425|[bj2887](https://www.acmicpc.net/problem/2887)|행성 터널||||||
