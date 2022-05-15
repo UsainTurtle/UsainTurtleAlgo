@@ -24,6 +24,11 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
+|0512|[bj17176](https://www.acmicpc.net/problem/17176)|암호해독기|||||
+|0512|[bj7490](https://www.acmicpc.net/problem/7490)|0 만들기|||||
+|0512|[bj5525](https://www.acmicpc.net/problem/5525)|IOIOI|||||
+|0512|[bj2115](https://www.acmicpc.net/problem/2115)|갤러기|||||
+|0512|[bj19583](https://www.acmicpc.net/problem/19583)|싸이버개강총회|||||
 |0509|[bj17281](https://www.acmicpc.net/problem/17281)|⚾️|||||
 |0505|[bj21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|||||
 |0504|[bj1414](https://www.acmicpc.net/problem/1414)|불우이웃돕기||||||
