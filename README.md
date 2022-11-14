@@ -90,7 +90,7 @@ Comming soon..
 |0302|[bj2239](https://www.acmicpc.net/problem/2239)|스도쿠|||🥕|💪||
 |0302|[bj3190](https://www.acmicpc.net/problem/3190)|뱀|||🥕|||
 |0224|[bj12904](https://www.acmicpc.net/problem/12904)|A와 B|||🥕|💪||
-|0221|[bj1012](https://www.acmicpc.net/problem/1012)|유기농 배추|||🥕|||
+|0221|[bj1012](https://www.acmicpc.net/problem/1012)|유기농 배추|||🥕|💪||
 |0221|[bj10026](https://www.acmicpc.net/problem/10026)|적록색약|||🥕|💪||
 |0221|[bj15686](https://www.acmicpc.net/problem/15686)|치킨배달|||🥕|💪||
 |0221|[bj2206](https://www.acmicpc.net/problem/2206)|벽 부수고 이동하기|||🥕|||
