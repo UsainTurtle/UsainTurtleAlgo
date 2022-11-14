@@ -24,31 +24,31 @@ Comming soon..
 #### Problem List
 |날짜|번호|문제|정현|용재|유나|강호|성수|
 |---|---|---|---|---|---|---|---|
-|0516|[bj16986](https://www.acmicpc.net/problem/16986)|인싸들의 가위바위보|||||
-|0512|[bj17176](https://www.acmicpc.net/problem/17176)|암호해독기|||||
+|0516|[bj16986](https://www.acmicpc.net/problem/16986)|인싸들의 가위바위보||||💪|
+|0512|[bj17176](https://www.acmicpc.net/problem/17176)|암호해독기||||💪|
 |0512|[bj7490](https://www.acmicpc.net/problem/7490)|0 만들기|||||
 |0512|[bj5525](https://www.acmicpc.net/problem/5525)|IOIOI|||||
-|0512|[bj2115](https://www.acmicpc.net/problem/2115)|갤러기|||||
-|0512|[bj19583](https://www.acmicpc.net/problem/19583)|싸이버개강총회|||||
-|0509|[bj17281](https://www.acmicpc.net/problem/17281)|⚾️|||||
-|0505|[bj21608](https://www.acmicpc.net/problem/21608)|상어 초등학교|||||
+|0512|[bj2115](https://www.acmicpc.net/problem/2115)|갤러기||||💪|
+|0512|[bj19583](https://www.acmicpc.net/problem/19583)|싸이버개강총회||||💪|
+|0509|[bj17281](https://www.acmicpc.net/problem/17281)|⚾️||||💪|
+|0505|[bj21608](https://www.acmicpc.net/problem/21608)|상어 초등학교||||💪|
 |0504|[bj1414](https://www.acmicpc.net/problem/1414)|불우이웃돕기||||||
 |0504|[bj2418](https://www.acmicpc.net/problem/2418)|단어 격자||||||
 |0504|[bj16719](https://www.acmicpc.net/problem/16719)|ZOAC|||👻|||
-|0504|[bj3107](https://www.acmicpc.net/problem/3107)|IPv6|||👻|||
+|0504|[bj3107](https://www.acmicpc.net/problem/3107)|IPv6|||👻|💪||
 |0504|[bj4889](https://www.acmicpc.net/problem/4889)|안정적인 문자열|||👻|||
 |0425|[bj13418](https://www.acmicpc.net/problem/13418)|학교 탐방하기||||||
-|0425|[bj14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애||||||
+|0425|[bj14621](https://www.acmicpc.net/problem/14621)|나만 안되는 연애||||💪||
 |0425|[bj2887](https://www.acmicpc.net/problem/2887)|행성 터널||||||
-|0425|[bj1185](https://www.acmicpc.net/problem/1185)|유럽여행||||||
-|0425|[bj14950](https://www.acmicpc.net/problem/14950)|정복자||||||
-|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2|||🎲|||
-|0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||||
-|0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||||
-|0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||||
-|0419|[bj1922](https://www.acmicpc.net/problem/1922)|네트워크 연결||||||
-|0419|[bj16398](https://www.acmicpc.net/problem/16398)|행성 연결||||||
-|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|||🌧|||
+|0425|[bj1185](https://www.acmicpc.net/problem/1185)|유럽여행||||💪||
+|0425|[bj14950](https://www.acmicpc.net/problem/14950)|정복자||||💪||
+|0420|[bj23288](https://www.acmicpc.net/problem/23288)|주사위 굴리기 2|||🎲|💪||
+|0419|[bj21924](https://www.acmicpc.net/problem/21924)|도시 건설||||💪||
+|0419|[bj1647](https://www.acmicpc.net/problem/1647)|도시 분할 계획||||💪||
+|0419|[bj4386](https://www.acmicpc.net/problem/4386)|별자리 만들기||||💪||
+|0419|[bj1922](https://www.acmicpc.net/problem/1922)|네트워크 연결||||💪||
+|0419|[bj16398](https://www.acmicpc.net/problem/16398)|행성 연결||||💪||
+|0415|[pg92342](https://programmers.co.kr/learn/courses/30/lessons/92342)|양궁대회|||🌧|💪||
 |0415|[pg92344](https://programmers.co.kr/learn/courses/30/lessons/92344)|파괴되지 않은 건물|||🌧|||
 |0411|[sw5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|무선 충전|||🎱|💪||
 |0411|[sw5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|줄기세포배양|||🎱|💪||
@@ -97,9 +97,9 @@ Comming soon..
 |0221|[bj2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|||🥕|💪||
 |0217|[bj2638](https://www.acmicpc.net/problem/2638)|치즈 |||🥕|💪||
 |0214|[bj1106](https://www.acmicpc.net/problem/1106)|호텔 |||🌞|💪||
-|0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕||| 
+|0214|[bj5430](https://www.acmicpc.net/problem/5430)|AC |||🥕|💪|| 
 |0214| [bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기 |||🥕|||
-|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🐯||🥕|||
-|0214|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값|||🥕||| 
+|0214|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🐯||🥕|💪||
+|0214|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값|||🥕|💪|| 
 |0210|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아! |🐯||🥕|💪||
 
